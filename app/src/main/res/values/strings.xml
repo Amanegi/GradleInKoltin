@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GradleInKotlinDemo</string>
+    <string name="gradle_in_kotlin">Gradle In Kotlin</string>
+</resources>
